@@ -1,6 +1,6 @@
 ### Hello there, I'm John 👋 
 
-## I am a CS student at Uwindsor.
+## I'm a CS grad from Uwindsor.
 
 
 ### Connect with me:
